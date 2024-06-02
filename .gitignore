@@ -1,0 +1,4 @@
+out/
+build/
+target/
+vcpkg_installed/
